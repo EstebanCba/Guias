@@ -18,6 +18,7 @@ public class Ej01 {
      */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
+        System.out.println("Hola");
         System.out.println("ingrese un numero");
         int num = leer.nextInt();
          System.out.println("ingrese otro numero");
